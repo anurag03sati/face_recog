@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/dataset/train
+val: /content/drive/MyDrive/dataset/valid
+
+nc: 2
+classes: ["head","face"]
